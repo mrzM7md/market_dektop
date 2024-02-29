@@ -1,0 +1,85 @@
+D:\programming\microsoft products\forms\Tenders\Tenders\bin\Debug\Tenders.exe.config
+D:\programming\microsoft products\forms\Tenders\Tenders\bin\Debug\Tenders.exe
+D:\programming\microsoft products\forms\Tenders\Tenders\bin\Debug\Tenders.pdb
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.csproj.AssemblyReference.cache
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.csproj.SuggestedBindingRedirects.cache
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.Properties.Resources.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.csproj.GenerateResource.cache
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.csproj.CoreCompileInputs.cache
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.exe
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.pdb
+D:\programming\microsoft products\forms\Tenders\Tenders\bin\Debug\Bunifu_UI_v1.52.dll
+D:\programming\microsoft products\forms\Tenders\Tenders\bin\Debug\SQLABC_ModernUI.dll
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.csproj.CopyComplete
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.Forms.Admin.Main.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.Forms.Admin.Controllers.ControllerAdmin.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.DesTesting.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.Testing.MainTest.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.Testing.UserControl1.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.Forms.Admin.Controllers.ControlletFirms.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.Forms.Admin.Controllers.ControllerCategories.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.Forms.Auth.Controllers.ControllerSignIn.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.Forms.Auth.Controllers.ControllerSignUp.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.Forms.Auth.Main.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.Forms.Firm.Main.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.Forms.Firm.Test.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.Forms.Client.Main.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.Forms.Client.Test.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.Forms.Client.Details.resources
+D:\programming\microsoft products\forms\Tenders\Tenders\obj\Debug\Tenders.ErrorDialogs.Error.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\bin\Debug\Tenders.exe.config
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\bin\Debug\Tenders.exe
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\bin\Debug\Tenders.pdb
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\bin\Debug\Bunifu_UI_v1.52.dll
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\bin\Debug\SQLABC_ModernUI.dll
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.csproj.AssemblyReference.cache
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.csproj.SuggestedBindingRedirects.cache
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.ErrorDialogs.Error.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Admin.Controllers.ControllerAdmin.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Admin.Controllers.ControllerCategories.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Admin.Controllers.ControlletFirms.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Admin.Main.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Auth.Controllers.ControllerSignIn.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Auth.Controllers.ControllerSignUp.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Auth.Main.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Client.Details.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Client.Main.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Client.Test.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Firm.Main.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Firm.Test.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Properties.Resources.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.DesTesting.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Testing.MainTest.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Testing.UserControl1.resources
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.csproj.GenerateResource.cache
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.csproj.CoreCompileInputs.cache
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.csproj.CopyComplete
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.exe
+P:\مشاريعي\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.pdb
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\bin\Debug\Tenders.exe.config
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\bin\Debug\Tenders.exe
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\bin\Debug\Tenders.pdb
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.csproj.AssemblyReference.cache
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.csproj.SuggestedBindingRedirects.cache
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.ErrorDialogs.Error.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Admin.Controllers.ControllerAdmin.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Admin.Controllers.ControllerCategories.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Admin.Controllers.ControlletFirms.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Admin.Main.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Auth.Controllers.ControllerSignIn.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Auth.Controllers.ControllerSignUp.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Auth.Main.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Client.Details.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Client.Main.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Client.Test.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Firm.Main.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Forms.Firm.Test.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Properties.Resources.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.DesTesting.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Testing.MainTest.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.Testing.UserControl1.resources
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.csproj.GenerateResource.cache
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.csproj.CoreCompileInputs.cache
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.csproj.CopyComplete
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.exe
+E:\جامعة\مستوى 3\المشاريع\سنة ثالثة\SimapleMarket\Tenders\obj\Debug\Tenders.pdb
