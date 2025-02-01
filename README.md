@@ -4,3 +4,5 @@
  # Make sure to go to Database folder will find sql server script that generate main tables and data..
  ### super admin username => @MASTER , password: 123
  ### All Admin & firms & accounts info encrypted by 64bit algorithm for secure the privacy if database hacked
+
+![تسجيل حساب جديد في النظام](appImages/1_signup.png)
