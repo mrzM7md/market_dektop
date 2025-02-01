@@ -296,7 +296,7 @@
             this.label_new_update.Padding = new System.Windows.Forms.Padding(3, 0, 3, 3);
             this.label_new_update.Size = new System.Drawing.Size(263, 44);
             this.label_new_update.TabIndex = 2;
-            this.label_new_update.Text = "ADD NEW ADMIN";
+            this.label_new_update.Text = "NEW ADMIN";
             // 
             // flowLayoutPanel_admin_signup
             // 
